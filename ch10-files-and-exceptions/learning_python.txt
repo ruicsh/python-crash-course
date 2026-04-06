@@ -1,0 +1,3 @@
+In python you can define functions
+In python you can define classes
+In python you can open and read files
